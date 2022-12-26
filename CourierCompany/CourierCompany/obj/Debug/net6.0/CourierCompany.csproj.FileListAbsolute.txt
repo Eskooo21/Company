@@ -1,0 +1,15 @@
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\bin\Debug\net6.0\CourierCompany.exe
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\bin\Debug\net6.0\CourierCompany.deps.json
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\bin\Debug\net6.0\CourierCompany.runtimeconfig.json
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\bin\Debug\net6.0\CourierCompany.dll
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\bin\Debug\net6.0\CourierCompany.pdb
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.csproj.AssemblyReference.cache
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.AssemblyInfoInputs.cache
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.AssemblyInfo.cs
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.csproj.CoreCompileInputs.cache
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.dll
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\refint\CourierCompany.dll
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.pdb
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\CourierCompany.genruntimeconfig.cache
+C:\Users\igor_\source\repos\CourierCompany\CourierCompany\obj\Debug\net6.0\ref\CourierCompany.dll
